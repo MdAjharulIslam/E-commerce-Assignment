@@ -20,7 +20,7 @@ MyShop is a production-ready full-stack e-commerce platform built with a modern 
 
 ## Admin Info
 
-- **Admin Email: ** admin@example.com
+- **Admin Email:** admin@example.com
 - **Admin Password:** 12345678
 
 ## 🚀 Features
@@ -124,7 +124,7 @@ MongoDB (Mongoose Models)
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| POST | `/api/orders/add/:id` | delect an order |
+| POST | `/api/orders/add/:id` | delee an order |
 | GET | `/api/orders/myorders` | get all order by users |
 
 ###  Admin Manage Orders
@@ -234,8 +234,8 @@ npm run dev
 - why the mongodb connection request are faild but i provide the connection string 
 - Implement atomic stock update logic in this product controllers.
 - Add stock validation before placing order
-- why the password is not hashed 
-
+- why the password is not hashed but i use bcrypt
+- Improve security headers and CORS configuration
 
 ## Frontend Development Prompts
 
@@ -243,6 +243,7 @@ npm run dev
 - Optimize this  axios request handling
 - make the design more simple and actractive and professional and looking good
 - why the token is undefined here but backend send token
+- make a footer fot my myshop app with proper functionality
 - why globle axios backend link declearation is not work in my next.js app , what can be possible causes for this error
 - make the user login page with admin login page accessable
 - why Prevent unauthorized access in my  Next.js app
@@ -250,7 +251,7 @@ npm run dev
 - Add loading states and toast notifications
 - Make the booking page clean and minimal.
 - make a proper newsLetter box for myShop App
-
+- Improve form validation and error feedback handling
 
 
 
