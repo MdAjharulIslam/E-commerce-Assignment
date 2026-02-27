@@ -140,6 +140,10 @@ MongoDB (Mongoose Models)
 
 ### 1. Clone the repository
 
+```bash
+https://github.com/MdAjharulIslam/E-commerce-Assignment.git
+```
+
 
 ### 2. Backend Setup
 
