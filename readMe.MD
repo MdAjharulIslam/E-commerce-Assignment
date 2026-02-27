@@ -155,7 +155,7 @@ npm install
 Create a `.env` file:
 
 ```env
-PORT=5000
+PORT=a port number like 3000
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
 ADMIN_EMAIL="admin@example.com"
