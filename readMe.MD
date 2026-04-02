@@ -14,7 +14,7 @@ MyShop is a production-ready full-stack e-commerce platform built with a modern 
 ## 🌐 Live Demo
 
 - **Frontend:** https://e-commerce-assignment-tau.vercel.app
-- **Backend API:** https://e-commerce-assignment-1-v323.onrender.com
+- **Backend API:** https://my-shop-e-commerce.vercel.app
 
 ---
 
@@ -218,7 +218,7 @@ npm run dev
 ---
 
 
-##  AI tools used 
+<!-- ##  AI tools used 
 
 - ChatGpt
 - Cloude
@@ -255,7 +255,7 @@ npm run dev
 - Add loading states and toast notifications
 - Make the booking page clean and minimal.
 - make a proper newsLetter box for myShop App
-- Improve form validation and error feedback handling
+- Improve form validation and error feedback handling -->
 
 
 
